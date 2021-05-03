@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MesaNews</string>
+    <string name="password_hint_label">Senha</string>
+    <string name="new_account_clickable_text">Criar uma nova conta</string>
+    <string name="name_hint_label">Nome</string>
+    <string name="repeat_password_hint_label">Repita a senha</string>
+    <string name="empty_field_error">Não pode ser vazio</string>
+    <string name="different_password_error">A confirmação da senha é diferente</string>
+</resources>
